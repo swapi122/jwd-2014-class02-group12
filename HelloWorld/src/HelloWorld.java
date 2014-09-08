@@ -1,9 +1,7 @@
 
 public class HelloWorld {
-
-	public static void main(String[] args) {
-		System.out.println("Hello World!6yju");
-
+	public static void main (String [] args)
+	{
+		System.out.println("HelloWorld");
 	}
-
 }
